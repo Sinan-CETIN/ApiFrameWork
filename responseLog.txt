@@ -1,0 +1,103 @@
+HTTP/1.1 200 OK
+Date: Tue, 07 Feb 2023 13:01:17 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "e4cebfe08fe782541164780cfbb52d9e",
+    "scope": "APP",
+    "reference": "ee6435e5f3ea8ce5ab60504699545bebee6435e5f3ea8ce5ab60504699545beb",
+    "id": "ee6435e5f3ea8ce5ab60504699545beb"
+}
+HTTP/1.1 200 OK
+Date: Tue, 07 Feb 2023 13:01:22 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 246
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "location": {
+        "latitude": "124013.4",
+        "longitude": "-124592.4"
+    },
+    "accuracy": "50",
+    "name": "Guzel Yemek",
+    "phone_number": "(+90) 535 513 58 38",
+    "address": "texas,USA",
+    "types": "shoe park,otopark,shop",
+    "website": "http://guzelyemek.com",
+    "language": "english"
+}
+HTTP/1.1 200 OK
+Date: Tue, 07 Feb 2023 13:01:25 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "ab9567afb064f81601a162b0d4fa4ef7",
+    "scope": "APP",
+    "reference": "f549a8b89640f1677e98014ea3d6835ef549a8b89640f1677e98014ea3d6835e",
+    "id": "f549a8b89640f1677e98014ea3d6835e"
+}
+HTTP/1.1 200 OK
+Date: Tue, 07 Feb 2023 13:01:28 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 244
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "location": {
+        "latitude": "124013.4",
+        "longitude": "-124592.4"
+    },
+    "accuracy": "50",
+    "name": "borekci",
+    "phone_number": "(+90) 535 513 58 38",
+    "address": "France,Paris",
+    "types": "shoe park,otopark,shop",
+    "website": "http://guzelyemek.com",
+    "language": "french"
+}
+HTTP/1.1 200 OK
+Date: Tue, 07 Feb 2023 13:01:31 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 15
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK"
+}

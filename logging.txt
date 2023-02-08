@@ -1,0 +1,99 @@
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": 124013.4,
+        "lng": -124592.4
+    },
+    "accuracy": 50,
+    "name": "Guzel Yemek",
+    "phone_number": "(+90) 535 513 58 38",
+    "address": "texas,USA",
+    "types": [
+        "shoe park",
+        "otopark",
+        "shop"
+    ],
+    "website": "http://guzelyemek.com",
+    "language": "english"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=e4cebfe08fe782541164780cfbb52d9e
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=e4cebfe08fe782541164780cfbb52d9e
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": 124013.4,
+        "lng": -124592.4
+    },
+    "accuracy": 50,
+    "name": "borekci",
+    "phone_number": "(+90) 535 513 58 38",
+    "address": "France,Paris",
+    "types": [
+        "shoe park",
+        "otopark",
+        "shop"
+    ],
+    "website": "http://guzelyemek.com",
+    "language": "french"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=ab9567afb064f81601a162b0d4fa4ef7
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=ab9567afb064f81601a162b0d4fa4ef7
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	DELETE
+Request URI:	https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "place_id": "ab9567afb064f81601a162b0d4fa4ef7"
+}
